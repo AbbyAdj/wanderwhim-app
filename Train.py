@@ -1,3 +1,4 @@
+import requests
 
 class TrainData:
     def __init__(self):
