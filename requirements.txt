@@ -1,0 +1,11 @@
+requests
+boto3
+moto[all]
+fastapi[standard]
+python-dotenv    
+bandit
+black
+coverage
+pandas
+pg8000
+sqlparse

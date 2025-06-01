@@ -1,0 +1,1 @@
+"""actual attractions in the places"""
